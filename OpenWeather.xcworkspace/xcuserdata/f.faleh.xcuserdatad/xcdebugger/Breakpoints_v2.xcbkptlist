@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B3B803AB-9164-4D4B-83E1-095A16EA1F44"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "437662D6-FC37-4864-BF55-ED376944FF28"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeather/ViewModels/AddCityViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getWeather(cityName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "437662D6-FC37-4864-BF55-ED376944FF28 - 442e541bf1490407"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;OpenWeather.WeatherInfo&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OpenWeather.AddCityViewModel.getWeather(cityName: Swift.String) -&gt; ()"
+                  moduleName = "OpenWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f.faleh/Downloads/weather-master/OpenWeather/ViewModels/AddCityViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "437662D6-FC37-4864-BF55-ED376944FF28 - 442e541bf1490407"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;OpenWeather.WeatherInfo&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OpenWeather.AddCityViewModel.getWeather(cityName: Swift.String) -&gt; ()"
+                  moduleName = "OpenWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/f.faleh/Downloads/weather-master/OpenWeather/ViewModels/AddCityViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

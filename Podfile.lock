@@ -1,0 +1,29 @@
+PODS:
+  - OpenWeatherFramework (0.1.0)
+  - Realm (10.36.0):
+    - Realm/Headers (= 10.36.0)
+  - Realm/Headers (10.36.0)
+  - RealmSwift (10.36.0):
+    - Realm (= 10.36.0)
+
+DEPENDENCIES:
+  - OpenWeatherFramework (from `./OpenWeatherFramework`)
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+
+EXTERNAL SOURCES:
+  OpenWeatherFramework:
+    :path: "./OpenWeatherFramework"
+
+SPEC CHECKSUMS:
+  OpenWeatherFramework: cfe3b07a5f0e0fe3a184aa30a72efcb8372b90d2
+  Realm: 3fd136cb4c83a927482a7f1612496d37beed3cf5
+  RealmSwift: 513d4dcbf5bfc4d573454088b592685fc48dd716
+
+PODFILE CHECKSUM: aeda2d4d32e6d214ac5b17c12d08621e9325ab21
+
+COCOAPODS: 1.11.3
